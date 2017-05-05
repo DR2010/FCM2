@@ -1,0 +1,5 @@
+C:\I_Daniel\Dropbox\FCM - MySQL\FCMBusinessServices\bin\Debug\FCMBusinessServices.dll
+C:\I_Daniel\Dropbox\FCM - MySQL\FCMBusinessServices\bin\Debug\FCMBusinessServices.pdb
+C:\I_Daniel\Dropbox\FCM - MySQL\FCMBusinessServices\obj\Debug\FCMBusinessServices.csprojResolveAssemblyReference.cache
+C:\I_Daniel\Dropbox\FCM - MySQL\FCMBusinessServices\obj\Debug\FCMBusinessServices.dll
+C:\I_Daniel\Dropbox\FCM - MySQL\FCMBusinessServices\obj\Debug\FCMBusinessServices.pdb

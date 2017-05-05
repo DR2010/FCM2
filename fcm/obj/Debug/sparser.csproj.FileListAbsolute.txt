@@ -1,0 +1,13 @@
+C:\Systems\Code\obj\Debug\sparser.csproj.ResolveComReference.cache
+C:\Systems\Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Systems\Code\obj\Debug\sparser.frmParserMainUI.resources
+C:\Systems\Code\obj\Debug\sparser.csproj.GenerateResource.Cache
+C:\Systems\Code\bin\Debug\sparser.exe
+C:\Systems\Code\bin\Debug\sparser.pdb
+C:\Systems\Code\bin\Debug\Interop.Word.dll
+C:\Systems\Code\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Systems\Code\bin\Debug\Interop.Office.dll
+C:\Systems\Code\bin\Debug\office.dll
+C:\Systems\Code\bin\Debug\office.xml
+C:\Systems\Code\obj\Debug\sparser.exe
+C:\Systems\Code\obj\Debug\sparser.pdb

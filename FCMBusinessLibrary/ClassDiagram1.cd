@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FCMMySQLBusinessLibrary.Model.ModelClient.Client">
+    <Position X="3.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAkAAAIKgEAQQAQAAIEABIQAAEAAIASCAAAAIgACEAI=</HashCode>
+      <FileName>Model\ModelClient\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FCMMySQLBusinessLibrary.Model.ModelClient.ClientContract">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAMAAAAAAAAAIEAAAAgAAAAAAQAAQACAEAQEAA=</HashCode>
+      <FileName>Model\ModelClient\ClientContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FCMMySQLBusinessLibrary.Model.ModelClient.ClientExtraInformation">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAIAAAgAAAAAIECBAQAAEACAAQIAAAAAAGCEIA=</HashCode>
+      <FileName>Model\ModelClient\ClientExtraInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FCMMySQLBusinessLibrary.Model.ModelClient.ClientOtherInfo" Collapsed="true">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="FCMMySQLBusinessLibrary.Model.ModelClient.ClientOtherInfo.FieldName" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Model\ModelClient\ClientOtherInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAgAAgAAAAAAAAAAAAAAAAAAhAgAAAAAAAEAI=</HashCode>
+      <FileName>Model\ModelClient\ClientOtherInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FCMMySQLBusinessLibrary.Repository.RepositoryClient.RepClientExtraInformation">
+    <Position X="7.75" Y="6" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQQAEAAAAAAAAAAAAAEAAQgAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Repository\RepositoryClient\RepClientExtraInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FCMMySQLBusinessLibrary.Repository.RepositoryClient.RepClient">
+    <Position X="4" Y="8.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAUQQEAAAAAAAAAAAAAEAAAgIBEAABBBAAAAAAAAAAI=</HashCode>
+      <FileName>Repository\RepositoryClient\RepClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FCMMySQLBusinessLibrary.Repository.RepositoryClient.RepClientContract">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAEAAAAAAAIAAAAAEAAQgAAEAAABAAAAAAAAAAAI=</HashCode>
+      <FileName>Repository\RepositoryClient\RepClientContract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

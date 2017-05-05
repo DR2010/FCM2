@@ -1,0 +1,749 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{78EACFC0-1199-400D-9396-99DBAA64227A}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>FcmIcon.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>fcm</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>fcm</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>fcm.Windows.UIfcm</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>C:\Program Files\FCM\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Google.GData.AccessControl, Version=1.6.0.0, Culture=neutral, PublicKeyToken=b4b8eb9a7afc8328, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ExternalAssemblies\Google.GData.AccessControl.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Google.GData.Client, Version=1.6.0.0, Culture=neutral, PublicKeyToken=04a59ca9b0273830, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ExternalAssemblies\Google.GData.Client.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Google.GData.Documents, Version=1.6.0.0, Culture=neutral, PublicKeyToken=e4daaad656f19bb9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ExternalAssemblies\Google.GData.Documents.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Google.GData.Extensions, Version=1.6.0.0, Culture=neutral, PublicKeyToken=0b4c5df2ebf20876, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ExternalAssemblies\Google.GData.Extensions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Interop.Word, Version=8.1.0.0, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\I_Projects\FCM_Projects\Shared_T_Drive\TPComponents\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\I_Projects\FCM_Projects\Shared_T_Drive\TPComponents\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>packages\MySql.Data.6.9.5\lib\net40\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Common">
+      <HintPath>packages\ServiceStack.Common.4.0.38\lib\net40\ServiceStack.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Interfaces">
+      <HintPath>packages\ServiceStack.Interfaces.4.0.38\lib\portable-wp80+sl5+net40+win8+monotouch+monoandroid\ServiceStack.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Redis">
+      <HintPath>packages\ServiceStack.Redis.4.0.38\lib\net40\ServiceStack.Redis.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Text">
+      <HintPath>packages\ServiceStack.Text.4.0.38\lib\net40\ServiceStack.Text.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.XML">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Components\UCClientOtherInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\UCClientOtherInfo.Designer.cs">
+      <DependentUpon>UCClientOtherInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProxyAsync\AsyncClient.cs" />
+    <Compile Include="UIHelper\ClientDocumentUIHelper.cs" />
+    <Compile Include="Windows\Cache\CachedInfo.cs" />
+    <Compile Include="Windows\ClientContract\UIClientContract.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\ClientContract\UIClientContract.Designer.cs">
+      <DependentUpon>UIClientContract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\ClientEmployee\ControllerEmployee.cs" />
+    <Compile Include="Controller\ControllerUtils.cs" />
+    <Compile Include="Windows\ClientEmployee\UIClientEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\ClientEmployee\UIClientEmployee.Designer.cs">
+      <DependentUpon>UIClientEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientRegistration.Designer.cs">
+      <DependentUpon>UIClientRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Google\Model\ModelGoogle.cs" />
+    <Compile Include="Windows\Google\View\UIGoogleDocs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Google\View\UIGoogleDocs.Designer.cs">
+      <DependentUpon>UIGoogleDocs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Logon\HostForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Logon\HostForm.Designer.cs">
+      <DependentUpon>HostForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Others\UIRelatedReferenceData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Others\UIRelatedReferenceData.Designer.cs">
+      <DependentUpon>UIRelatedReferenceData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Others\UISendEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Others\UISendEmail.Designer.cs">
+      <DependentUpon>UISendEmail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Requests\UIProcessRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Requests\UIProcessRequest.Designer.cs">
+      <DependentUpon>UIProcessRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Security\UIUserAccess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Security\UIUserAccess.Designer.cs">
+      <DependentUpon>UIUserAccess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Timesheet\Timesheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Timesheet\Timesheet.Designer.cs">
+      <DependentUpon>Timesheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\User\UIUserSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\User\UIUserSettings.Designer.cs">
+      <DependentUpon>UIUserSettings.cs</DependentUpon>
+    </Compile>
+    <Content Include="App.ico" />
+    <Content Include="BusinessRules.txt" />
+    <Content Include="cfm.xml" />
+    <EmbeddedResource Include="Components\UCClientOtherInfo.resx">
+      <DependentUpon>UCClientOtherInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Client\UIClientRegistration.resx">
+      <DependentUpon>UIClientRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Others\UIRelatedReferenceData.resx">
+      <DependentUpon>UIRelatedReferenceData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Others\UISendEmail.resx">
+      <DependentUpon>UISendEmail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Requests\UIProcessRequest.resx">
+      <DependentUpon>UIProcessRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Security\UIUserAccess.resx">
+      <DependentUpon>UIUserAccess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Timesheet\Timesheet.resx">
+      <DependentUpon>Timesheet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\User\UIUserSettings.resx">
+      <DependentUpon>UIUserSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\FCMBusinessLibrary.BUSProcessRequest.datasource" />
+    <None Include="Properties\DataSources\FCMBusinessLibrary.ClientOtherInfo.datasource" />
+    <None Include="Properties\DataSources\FCMBusinessLibrary.ClientWorkHoursAllocation.datasource" />
+    <None Include="Properties\DataSources\FCMBusinessLibrary.CodeValue.datasource" />
+    <None Include="Properties\DataSources\FCMBusinessLibrary.ProcessRequest.datasource" />
+    <None Include="Properties\DataSources\FCMBusinessLibrary.ProcessRequestResults.datasource" />
+    <None Include="Properties\DataSources\FCMBusinessLibrary.UserAccess.datasource" />
+    <None Include="Resources\PDFFileSourceYesDestinationYes.jpg" />
+    <None Include="Resources\PDFFileSourceYesDestinationNo.jpg" />
+    <None Include="Resources\PDFFileSourceNoDestinationYes.jpg" />
+    <None Include="Resources\PDFFileSourceNoDestinationNo.jpg" />
+    <None Include="Resources\PDFFile.jpg" />
+    <None Include="Resources\ExcelFileSourceYesDestinationNo.jpg" />
+    <None Include="Resources\ExcelFileSourceNoDestinationNo.jpg" />
+    <None Include="Resources\ExcelFileSourceNoDestinationYes.jpg" />
+    <None Include="Resources\ExcelFileSourceYesDestinationYes.jpg" />
+    <None Include="Resources\WordFileSourceNoDestinationNo.jpg" />
+    <None Include="Resources\WordFileSourceNoDestinationYes.jpg" />
+    <None Include="Resources\WordFileSourceYesDestinationNo.jpg" />
+    <None Include="Resources\WordFileSourceYesDestinationYes.jpg" />
+    <None Include="Resources\WordFileExists32.jpg" />
+    <None Include="Resources\WordFileNotFound32.jpg" />
+    <None Include="Resources\WordFile32.jpg" />
+    <EmbeddedResource Include="Windows\ClientContract\UIClientContract.resx">
+      <DependentUpon>UIClientContract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\ClientEmployee\UIClientEmployee.resx">
+      <DependentUpon>UIClientEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Google\View\UIGoogleDocs.resx">
+      <DependentUpon>UIGoogleDocs.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\FCMBusinessLibrary.Client.datasource" />
+    <None Include="Properties\DataSources\FCMBusinessLibrary.ClientContract.datasource" />
+    <None Include="Properties\DataSources\FCMBusinessLibrary.Employee.datasource" />
+    <None Include="Resources\ImageWordDocument.bmp" />
+    <None Include="Resources\ImageFolder.bmp" />
+    <None Include="Resources\ImageSelected.bmp" />
+    <None Include="Resources\DownArrow.jpg" />
+    <None Include="Resources\UpArrow.jpg" />
+    <None Include="Resources\UpArrow.bmp" />
+    <None Include="Resources\UpArrow2.bmp" />
+    <None Include="Resources\UpArrow2.jpg" />
+    <None Include="Resources\DownArrow2.jpg" />
+    <None Include="Resources\Bin.jpg" />
+    <None Include="Resources\BinSmall.jpg" />
+    <None Include="Resources\Arrow_32.ico" />
+    <None Include="Resources\BrightnessDownA_32x32.ico" />
+    <None Include="Resources\BrightnessDownB_32x32.ico" />
+    <None Include="Resources\BrightnessUp_32x32.ico" />
+    <None Include="Resources\crt_32.ico" />
+    <None Include="Resources\crt_dvi_32.ico" />
+    <None Include="Resources\display.ico" />
+    <None Include="Resources\dualdisplay.ico" />
+    <None Include="Resources\DVI.ico" />
+    <None Include="Resources\DVI_Notebook.ico" />
+    <None Include="Resources\EABSysTr.ico" />
+    <None Include="Resources\extended_mode.ico" />
+    <None Include="Resources\FcmIcon.ico" />
+    <None Include="Resources\folder.ico" />
+    <None Include="Resources\hdmi.ico" />
+    <None Include="Resources\hdmicrt.ico" />
+    <None Include="Resources\hdmidvi.ico" />
+    <None Include="Resources\hdmilcd.ico" />
+    <None Include="Resources\hdmitv.ico" />
+    <None Include="Resources\infocenter32_16.ico" />
+    <None Include="Resources\Mute.ico" />
+    <None Include="Resources\notebook.ico" />
+    <None Include="Resources\OOFL.ICO" />
+    <None Include="Resources\POSTL.ICO" />
+    <None Include="Resources\stop.ico" />
+    <None Include="Resources\sync.ico" />
+    <None Include="Resources\tv.ico" />
+    <None Include="Resources\tv_crt_32.ico" />
+    <None Include="Resources\tv_dvi_32.ico" />
+    <None Include="Resources\tv_internal.ico" />
+    <None Include="Resources\tv_lcd.ico" />
+    <None Include="Resources\VolumeHigh.ico" />
+    <None Include="Resources\VolumeLow.ico" />
+    <Content Include="FCMConfig.xml" />
+    <Content Include="FcmIcon.ico" />
+    <None Include="Resources\Save2.jpg" />
+    <None Include="Resources\Save.ico" />
+    <None Include="Resources\Save1.ico" />
+    <None Include="Resources\ImageClient.jpg" />
+    <None Include="Resources\Delete].jpg" />
+    <None Include="Resources\DownArrowSmall.jpg" />
+    <None Include="Resources\UpArrowUp.jpg" />
+    <None Include="Resources\CopyAll.jpg" />
+    <None Include="Resources\NewDocument.jpg" />
+    <None Include="Resources\GenerateDocuments.jpg" />
+    <None Include="Resources\LeftArrowGreen.jpg" />
+    <None Include="Resources\RightArrowGreen.jpg" />
+    <None Include="Resources\Appendix.jpg" />
+    <None Include="Resources\Excel.jpg" />
+    <None Include="Resources\PDF.jpg" />
+    <None Include="Resources\Undefined.jpg" />
+    <None Include="Resources\ImageExit.bmp" />
+    <None Include="Resources\ImageNew.bmp" />
+    <None Include="Resources\ImageEdit.jpg" />
+    <None Include="Resources\ImageEdit2.jpg" />
+    <None Include="Resources\ImageLink.jpg" />
+    <None Include="Resources\Checked.jpg" />
+    <None Include="Resources\Unchecked.jpg" />
+    <None Include="Resources\Refresh.bmp" />
+    <None Include="Service References\fcmServiceRef\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\fcmServiceRef\configuration.svcinfo" />
+    <None Include="Resources\FCMLogo.jpg" />
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Components\UCDocumentList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\UCDocumentList.Designer.cs">
+      <DependentUpon>UCDocumentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\UCCodeValue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\UCCodeValue.Designer.cs">
+      <DependentUpon>UCCodeValue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Components\UCReportMetadata.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\UCReportMetadata.Designer.cs">
+      <DependentUpon>UCReportMetadata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientDocumentEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientDocumentEdit.Designer.cs">
+      <DependentUpon>UIClientDocumentEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientDocumentLink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientDocumentLink.Designer.cs">
+      <DependentUpon>UIClientDocumentLink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientDocumentSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientDocumentSet.Designer.cs">
+      <DependentUpon>UIClientDocumentSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientList.Designer.cs">
+      <DependentUpon>UIClientList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientMetadata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientMetadata.Designer.cs">
+      <DependentUpon>UIClientMetadata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentEdit.Designer.cs">
+      <DependentUpon>UIDocumentEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentVersion.Designer.cs">
+      <DependentUpon>UIDocumentVersion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentLink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentLink.Designer.cs">
+      <DependentUpon>UIDocumentLink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentSet.Designer.cs">
+      <DependentUpon>UIDocumentSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentSetDocumentLink.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentSetDocumentLink.Designer.cs">
+      <DependentUpon>UIDocumentSetDocumentLink.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentSetEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentSetEdit.Designer.cs">
+      <DependentUpon>UIDocumentSetEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Others\UIImpactedDocuments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Others\UIImpactedDocuments.Designer.cs">
+      <DependentUpon>UIImpactedDocuments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Others\UIOutputMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Others\UIOutputMessage.Designer.cs">
+      <DependentUpon>UIOutputMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Others\UIProjectPlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Others\UIProjectPlan.Designer.cs">
+      <DependentUpon>UIProjectPlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Others\UIProposal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Others\UIProposal.Designer.cs">
+      <DependentUpon>UIProposal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Document\UIDocumentList.Designer.cs">
+      <DependentUpon>UIDocumentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\fcmServiceRef\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Components\UCCodeType.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Components\UCCodeType.Designer.cs">
+      <DependentUpon>UCCodeType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Client\UIClientDetails.Designer.cs">
+      <DependentUpon>UIClientDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Logon\UIfcm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Logon\UILogon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Logon\UILogon.Designer.cs">
+      <DependentUpon>UILogon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Others\UIMaintainProject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Others\UIMaintainProject.Designer.cs">
+      <DependentUpon>UIMaintainProject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Others\UIReportMetadata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Others\UIReportMetadata.Designer.cs">
+      <DependentUpon>UIReportMetadata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Windows\Others\UIReferenceData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Windows\Others\UIReferenceData.Designer.cs">
+      <DependentUpon>UIReferenceData.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Components\UCCodeValue.resx">
+      <DependentUpon>UCCodeValue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\UCCodeType.resx">
+      <DependentUpon>UCCodeType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\UCDocumentList.resx">
+      <DependentUpon>UCDocumentList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Components\UCReportMetadata.resx">
+      <DependentUpon>UCReportMetadata.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Client\UIClientDocumentEdit.resx">
+      <DependentUpon>UIClientDocumentEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Client\UIClientDocumentLink.resx">
+      <DependentUpon>UIClientDocumentLink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Client\UIClientDocumentSet.resx">
+      <DependentUpon>UIClientDocumentSet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Client\UIClientList.resx">
+      <DependentUpon>UIClientList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Client\UIClientMetadata.resx">
+      <DependentUpon>UIClientMetadata.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Document\UIDocumentEdit.resx">
+      <DependentUpon>UIDocumentEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Document\UIDocumentVersion.resx">
+      <DependentUpon>UIDocumentVersion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Document\UIDocumentLink.resx">
+      <DependentUpon>UIDocumentLink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Document\UIDocumentSet.resx">
+      <DependentUpon>UIDocumentSet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Document\UIDocumentSetDocumentLink.resx">
+      <DependentUpon>UIDocumentSetDocumentLink.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Document\UIDocumentSetEdit.resx">
+      <DependentUpon>UIDocumentSetEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Logon\UIfcm.resx">
+      <DependentUpon>UIfcm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Client\UIClientDetails.resx">
+      <DependentUpon>UIClientDetails.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Others\UIImpactedDocuments.resx">
+      <DependentUpon>UIImpactedDocuments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Logon\UILogon.resx">
+      <DependentUpon>UILogon.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Others\UIMaintainProject.resx">
+      <DependentUpon>UIMaintainProject.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Others\UIOutputMessage.resx">
+      <DependentUpon>UIOutputMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Others\UIProjectPlan.resx">
+      <DependentUpon>UIProjectPlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Others\UIProposal.resx">
+      <DependentUpon>UIProposal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Others\UIReportMetadata.resx">
+      <DependentUpon>UIReportMetadata.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Others\UIReferenceData.resx">
+      <DependentUpon>UIReferenceData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Windows\Document\UIDocumentList.resx">
+      <DependentUpon>UIDocumentList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VisualBasic.PowerPacks.10.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Basic PowerPacks 10.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\fcmServiceRef\fcm.fcmServiceRef.CompanyContract.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\fcmServiceRef\fcm.fcmServiceRef.CompositeType.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\fcmServiceRef\fcmService.wsdl" />
+    <None Include="Service References\fcmServiceRef\item.xsd" />
+    <None Include="Service References\fcmServiceRef\item1.xsd" />
+    <None Include="Service References\fcmServiceRef\item2.xsd" />
+    <None Include="Service References\fcmServiceRef\item3.xsd" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\fcmServiceRef\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FCMBusinessLibrary\FCMMySQLBusinessLibrary.csproj">
+      <Project>{afcfa7d2-53d4-406e-b2f7-cd01811ca488}</Project>
+      <Name>FCMMySQLBusinessLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MackkadoITFramework\MackkadoITFramework.csproj">
+      <Project>{E3AE470F-2380-47C1-85E2-4CDBF59CA331}</Project>
+      <Name>MackkadoITFramework</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

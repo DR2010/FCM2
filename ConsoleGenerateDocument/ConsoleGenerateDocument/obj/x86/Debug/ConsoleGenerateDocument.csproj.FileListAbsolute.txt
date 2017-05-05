@@ -1,0 +1,40 @@
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ConsoleGenerateDocument.exe
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ConsoleGenerateDocument.pdb
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.exe
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.pdb
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\FCMBusinessLibrary.dll
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\FCMBusinessLibrary.pdb
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.exe
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.pdb
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ConsoleGenerateDocument.exe
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ConsoleGenerateDocument.pdb
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ConsoleGenerateDocument.exe.config
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\FCMMySQLBusinessLibrary.dll
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\MackkadoITFramework.dll
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\FCMMySQLBusinessLibrary.pdb
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\MackkadoITFramework.pdb
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.csprojResolveAssemblyReference.cache
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.FCMServer.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.csproj.GenerateResource.Cache
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ConsoleGenerateDocument.exe.config
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ConsoleGenerateDocument.exe
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ConsoleGenerateDocument.pdb
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\FCMMySQLBusinessLibrary.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\MackkadoITFramework.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\FCMMySQLBusinessLibrary.pdb
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\MackkadoITFramework.pdb
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.csprojResolveAssemblyReference.cache
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.FCMServer.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.csproj.GenerateResource.Cache
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.exe
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Debug\ConsoleGenerateDocument.pdb
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\MySql.Data.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ServiceStack.Redis.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ServiceStack.Interfaces.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ServiceStack.Text.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ServiceStack.Common.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\FCMMySQLBusinessLibrary.xml
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ServiceStack.Redis.xml
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ServiceStack.Text.xml
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Debug\ServiceStack.Common.xml

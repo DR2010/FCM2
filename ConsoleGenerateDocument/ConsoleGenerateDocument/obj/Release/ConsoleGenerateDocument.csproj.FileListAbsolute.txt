@@ -1,0 +1,11 @@
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\ConsoleGenerateDocument.exe.config
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\ConsoleGenerateDocument.exe
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\FCMMySQLBusinessLibrary.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\MackkadoITFramework.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\FCMMySQLBusinessLibrary.pdb
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\FCMMySQLBusinessLibrary.xml
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\MackkadoITFramework.pdb
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\Release\ConsoleGenerateDocument.csprojResolveAssemblyReference.cache
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\Release\ConsoleGenerateDocument.FCMServer.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\Release\ConsoleGenerateDocument.csproj.GenerateResource.Cache
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\Release\ConsoleGenerateDocument.exe

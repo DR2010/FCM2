@@ -1,0 +1,8 @@
+<Config>
+   <ConnectionString>
+       Data Source=TOSHIBAPC\SQLEXPRESS;Initial Catalog=management;Integrated Security=SSPI;User ID=service_fcm;Password=service_fcm;
+   </ConnectionString>
+   <InternalServerIPAddress>
+       192.168.2.9
+   </InternalServerIPAddress>
+</Config>

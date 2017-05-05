@@ -1,0 +1,9 @@
+C:\Users\MACHADO\Dropbox\FCM\FCMApplicationLoader\bin\Debug\FCMApplicationLoader.exe
+C:\Users\MACHADO\Dropbox\FCM\FCMApplicationLoader\bin\Debug\FCMApplicationLoader.pdb
+C:\Users\MACHADO\Dropbox\FCM\FCMApplicationLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MACHADO\Dropbox\FCM\FCMApplicationLoader\obj\x86\Debug\FCMApplicationLoader.Properties.Resources.resources
+C:\Users\MACHADO\Dropbox\FCM\FCMApplicationLoader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MACHADO\Dropbox\FCM\FCMApplicationLoader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MACHADO\Dropbox\FCM\FCMApplicationLoader\obj\x86\Debug\FCMApplicationLoader.exe
+C:\Users\MACHADO\Dropbox\FCM\FCMApplicationLoader\obj\x86\Debug\FCMApplicationLoader.pdb
+C:\Users\MACHADO\Dropbox\FCM\FCMApplicationLoader\obj\x86\Debug\FCMApplicationLoader.UIFCMAppLoader.resources

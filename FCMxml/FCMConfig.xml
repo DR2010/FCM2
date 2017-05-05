@@ -1,0 +1,38 @@
+<Config>
+  <ConnectionStringLocalZ>
+    Data Source=TOSHIBA2011\SQLSERVERTOSH,1433;Initial Catalog=management;Integrated Security=SSPI;User ID=service_fcm;Password=service_fcm;MultipleActiveResultSets=True;
+  </ConnectionStringLocalZ>
+  <ConnectionStringLocal>
+    Server=localhost;Port=3306;Database=management;Uid=fcmuser;Pwd=oculos;AutoEnlist=false   
+  </ConnectionStringLocal>
+  <ConnectionStringServer>
+    Server=localhost;Port=3306;Database=management;Uid=fcmuser;Pwd=oculos;AutoEnlist=false   
+  </ConnectionStringServer>
+  <ConnectionString>
+    Server=localhost;Port=3306;Database=management;Uid=fcmuser;Pwd=oculos;AutoEnlist=false   
+  </ConnectionString>
+  <ConnectionStringMySql>
+    Server=localhost;Port=3306;Database=management;Uid=fcmuser;Pwd=oculos;AutoEnlist=false   
+  </ConnectionStringMySql>
+  <ConnectionStringFramework>
+    Server=localhost;Port=3306;Database=management;Uid=fcmuser;Pwd=oculos;AutoEnlist=false   
+  </ConnectionStringFramework>
+  <InternalServerIPAddress>
+    192.168.2.8
+  </InternalServerIPAddress>
+  <LocalAssemblyFolder>
+    C:\Program Files\FCM\
+  </LocalAssemblyFolder>
+  <ServerAssemblyFolder>
+    T:\AssemblyServer\
+  </ServerAssemblyFolder>
+  <DefaultDB>
+    Local
+  </DefaultDB>
+  <EnableLocalDB>
+    Y
+  </EnableLocalDB>
+  <AuditLogPath>
+    T:\AuditLog
+  </AuditLogPath>
+</Config>

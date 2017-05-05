@@ -1,0 +1,11 @@
+C:\I_Daniel\Dropbox\I_Projects\XCoolForm\XCoolForm\bin\Debug\XCoolForm.dll
+C:\I_Daniel\Dropbox\I_Projects\XCoolForm\XCoolForm\bin\Debug\XCoolForm.pdb
+C:\I_Daniel\Dropbox\I_Projects\XCoolForm\XCoolForm\obj\Debug\XCoolForm.dll
+C:\I_Daniel\Dropbox\I_Projects\XCoolForm\XCoolForm\obj\Debug\XCoolForm.pdb
+C:\I_Daniel\Dropbox\FCMMySQLGit\XCoolForm\bin\Debug\XCoolForm.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\XCoolForm\bin\Debug\XCoolForm.pdb
+C:\I_Daniel\Dropbox\FCMMySQLGit\XCoolForm\obj\Debug\XCoolForm.csprojResolveAssemblyReference.cache
+C:\I_Daniel\Dropbox\FCMMySQLGit\XCoolForm\obj\Debug\XCoolForm.XCoolForm.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\XCoolForm\obj\Debug\XCoolForm.csproj.GenerateResource.Cache
+C:\I_Daniel\Dropbox\FCMMySQLGit\XCoolForm\obj\Debug\XCoolForm.dll
+C:\I_Daniel\Dropbox\FCMMySQLGit\XCoolForm\obj\Debug\XCoolForm.pdb

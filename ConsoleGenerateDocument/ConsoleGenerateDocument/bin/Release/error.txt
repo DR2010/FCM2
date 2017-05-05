@@ -1,0 +1,8 @@
+
+From ConsoleGeneration
+
+location
+\\MACHADODANIEL\FCM_Projects\Shared_T_Drive\DocumentsClient\CLIENT201300027SET0001\028 - System Register
+
+clientDocument.filename
+SRG-01-01-201300027-00 Register of System Documents Categories.doc

@@ -1,0 +1,30 @@
+﻿
+1. File names and folder names should not contain the character "&" 
+   because it won't work from web requests.
+2. AVG Firewall has to be disabled for the web app to work. 
+   Check how to add the fcm app to the AVG firewall
+3.
+
+Issues
+12.07.2011 - I can't open word documents from the android phone. Try from another computer outside the firewall first, then investigate the
+issue if it is related to android.
+
+
+
+Configuration for server
+
+%CLIENTFOLDER%
+C:\FCM\Documents\Client  ==> T:\Documents\Client
+
+%LOGFILEFOLDER%
+C:\Users\MACHADO\Dropbox\AuditLog ==> T:\AuditLog
+
+%LOGOFOLDER%
+C:\Users\MACHADO\Dropbox\Logo\ ==> T:\Logo
+
+%TEMPLATEFOLDER%
+C:\FCM\Documents\Masters 08-07-29 ==> T:\Documents\MasterTemplate
+
+%VERSIONFOLDER%
+C:\FCM\Documents\Version ==> T:\Documents\Version
+

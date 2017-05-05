@@ -1,0 +1,10 @@
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\ConsoleGenerateDocument.exe
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\ConsoleGenerateDocument.pdb
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Release\ConsoleGenerateDocument.exe
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Release\ConsoleGenerateDocument.pdb
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\FCMBusinessLibrary.dll
+C:\Users\MACHADO\Dropbox\FCM\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\FCMBusinessLibrary.pdb
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\bin\Release\ConsoleGenerateDocument.exe.config
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Release\ConsoleGenerateDocument.exe
+C:\I_Daniel\Dropbox\FCMMySQLGit\ConsoleGenerateDocument\ConsoleGenerateDocument\obj\x86\Release\ConsoleGenerateDocument.pdb

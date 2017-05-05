@@ -1,0 +1,23 @@
+<Config>
+  <ConnectionStringLocal>
+    Data Source=TOSHIBAPROF\SQLEXPRESS,1433;Initial Catalog=management;Integrated Security=SSPI;User ID=service_fcm;Password=service_fcm;MultipleActiveResultSets=True;
+  </ConnectionStringLocal>
+  <ConnectionStringServer>
+    Data Source=TOSHIBAPROF\SQLEXPRESS,1433;Initial Catalog=management;Integrated Security=SSPI;User ID=service_fcm;Password=service_fcm;MultipleActiveResultSets=True;
+  </ConnectionStringServer>
+  <InternalServerIPAddress>
+    192.168.2.8
+  </InternalServerIPAddress>
+  <LocalAssemblyFolder>
+    C:\Program Files\FCM\
+  </LocalAssemblyFolder>
+  <ServerAssemblyFolder>
+    T:\AssemblyServer\
+  </ServerAssemblyFolder>
+  <EnableLocalDB>
+    Y
+  </EnableLocalDB>
+  <DefaultDB>
+    Local
+  </DefaultDB>
+</Config>

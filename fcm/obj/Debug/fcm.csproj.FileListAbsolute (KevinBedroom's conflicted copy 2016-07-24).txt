@@ -1,0 +1,784 @@
+C:\Systems\Code\bin\Debug\sparser.exe
+C:\Systems\Code\bin\Debug\sparser.pdb
+C:\Systems\Code\bin\Debug\Interop.Word.dll
+C:\Systems\Code\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Systems\Code\bin\Debug\Interop.Office.dll
+C:\Systems\Code\bin\Debug\office.dll
+C:\Systems\Code\bin\Debug\office.xml
+C:\Systems\Code\obj\Debug\ResolveAssemblyReference.cache
+C:\Systems\Code\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\Systems\Code\obj\Debug\sparser.frmParserMainUI.resources
+C:\Systems\Code\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\Systems\Code\obj\Debug\sparser.exe
+C:\Systems\Code\obj\Debug\sparser.pdb
+C:\Systems\Code\bin\Debug\sparser.exe.config
+C:\Systems\Code\obj\Debug\sparser.DocumentTemplate.resources
+E:\Systems\fcm\bin\Debug\sparser.exe.config
+E:\Systems\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+E:\Systems\fcm\obj\Debug\sparser.exe
+C:\projects\Systems\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\projects\Systems\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\Systems\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\projects\Systems\fcm\bin\Debug\Interop.Word.dll
+C:\projects\Systems\fcm\bin\Debug\Interop.Office.dll
+C:\projects\Systems\fcm\bin\Debug\fcm.exe.config
+C:\projects\Systems\fcm\obj\Debug\fcm.frmParserMainUI.resources
+C:\projects\Systems\fcm\obj\Debug\fcm.Windows.DocumentTemplate.resources
+C:\projects\Systems\fcm\bin\Debug\fcm.exe
+C:\projects\Systems\fcm\bin\Debug\fcm.pdb
+C:\projects\Systems\fcm\obj\Debug\fcm.exe
+C:\projects\Systems\fcm\obj\Debug\fcm.pdb
+C:\Systems\fcm\bin\Debug\fcm.exe.config
+C:\Systems\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\Systems\fcm\obj\Debug\fcm.exe
+C:\Systems\fcm\obj\Debug\fcm.pdb
+C:\Systems\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\Systems\fcm\obj\Debug\fcm.frmParserMainUI.resources
+C:\Systems\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\Systems\fcm\obj\Debug\fcm.Windows.DocumentTemplate.resources
+C:\Systems\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\Systems\fcm\bin\Debug\fcm.exe
+C:\Systems\fcm\bin\Debug\fcm.pdb
+C:\Systems\fcm\bin\Debug\Interop.Word.dll
+C:\Systems\fcm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Systems\fcm\bin\Debug\Interop.Office.dll
+C:\Systems\fcm\bin\Debug\office.dll
+C:\Systems\fcm\bin\Debug\office.xml
+C:\projects\Research\fcm\bin\Debug\fcm.exe.config
+C:\projects\Research\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\projects\Research\fcm\obj\Debug\fcm.exe
+C:\projects\Research\fcm\obj\Debug\fcm.pdb
+C:\projects\Research\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\Research\fcm\obj\Debug\fcm.frmParserMainUI.resources
+C:\projects\Research\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\projects\Research\fcm\obj\Debug\fcm.Windows.DocumentTemplate.resources
+C:\projects\Research\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\projects\Research\fcm\bin\Debug\fcm.exe
+C:\projects\Research\fcm\bin\Debug\fcm.pdb
+C:\projects\Research\fcm\bin\Debug\Interop.Word.dll
+C:\projects\Research\fcm\bin\Debug\Interop.Office.dll
+C:\Research\fcm\bin\Debug\fcm.exe.config
+C:\Research\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\Research\fcm\obj\Debug\fcm.exe
+C:\Research\fcm\obj\Debug\fcm.pdb
+C:\Research\fcm\bin\Debug\fcm.exe
+C:\Research\fcm\bin\Debug\fcm.pdb
+C:\Research\fcm\bin\Debug\Interop.Word.dll
+C:\Research\fcm\bin\Debug\Interop.Office.dll
+C:\Research\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\Research\fcm\obj\Debug\fcm.frmParserMainUI.resources
+C:\Research\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\Research\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\Research\fcm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Research\fcm\bin\Debug\office.dll
+C:\Research\fcm\bin\Debug\office.xml
+C:\Research\fcm\obj\Debug\fcm.Windows.UIGeneralMetadata.resources
+C:\Research\fcm\obj\Debug\fcm.Windows.UICompanyDetails.resources
+C:\Research\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\Research\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\Research\fcm\obj\Debug\fcm.Windows.UIMaintainProjectDocuments.resources
+E:\FCM\fcm\bin\Debug\fcm.exe.config
+E:\FCM\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+E:\FCM\fcm\obj\Debug\fcm.exe
+E:\FCM\fcm\obj\Debug\fcm.pdb
+E:\FCM\fcm\bin\Debug\fcm.exe
+E:\FCM\fcm\bin\Debug\fcm.pdb
+E:\FCM\fcm\bin\Debug\Interop.Word.dll
+E:\FCM\fcm\bin\Debug\Interop.Office.dll
+E:\FCM\fcm\obj\Debug\ResolveAssemblyReference.cache
+E:\FCM\fcm\obj\Debug\fcm.frmParserMainUI.resources
+E:\FCM\fcm\obj\Debug\fcm.Properties.Resources.resources
+E:\FCM\fcm\obj\Debug\fcm.Windows.UICompanyDetails.resources
+E:\FCM\fcm\obj\Debug\fcm.Windows.UILogon.resources
+E:\FCM\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+E:\FCM\fcm\obj\Debug\fcm.Windows.UIMaintainProjectDocuments.resources
+E:\FCM\fcm\obj\Debug\fcm.Windows.UIGeneralMetadata.resources
+E:\FCM\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\I_Sistemas\FCM\fcm\bin\Debug\fcm.exe.config
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.exe
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.pdb
+C:\I_Sistemas\FCM\fcm\bin\Debug\fcm.exe
+C:\I_Sistemas\FCM\fcm\bin\Debug\fcm.pdb
+C:\I_Sistemas\FCM\fcm\bin\Debug\Interop.Word.dll
+C:\I_Sistemas\FCM\fcm\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\I_Sistemas\FCM\fcm\bin\Debug\Interop.Office.dll
+C:\I_Sistemas\FCM\fcm\bin\Debug\office.dll
+C:\I_Sistemas\FCM\fcm\bin\Debug\office.xml
+C:\I_Sistemas\FCM\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.frmParserMainUI.resources
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.Windows.UICompanyDetails.resources
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.Windows.UIMaintainProjectDocuments.resources
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.Windows.UIGeneralMetadata.resources
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\I_Sistemas\FCM\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\FCM\fcm\bin\Debug\fcm.exe.config
+C:\FCM\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\FCM\fcm\obj\Debug\fcm.exe
+C:\FCM\fcm\obj\Debug\fcm.pdb
+C:\FCM\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\FCM\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\FCM\fcm\bin\Debug\fcm.exe
+C:\FCM\fcm\bin\Debug\fcm.pdb
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\FCM\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\FCM\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\FCM\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\FCM\fcmX2008\bin\Debug\fcm.exe.config
+C:\FCM\fcmX2008\bin\Debug\fcm.exe
+C:\FCM\fcmX2008\bin\Debug\fcm.pdb
+C:\FCM\fcmX2008\bin\Debug\Interop.Word.dll
+C:\FCM\fcmX2008\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\FCM\fcmX2008\bin\Debug\Interop.Office.dll
+C:\FCM\fcmX2008\bin\Debug\office.dll
+C:\FCM\fcmX2008\bin\Debug\office.xml
+C:\FCM\fcmX2008\obj\Debug\ResolveAssemblyReference.cache
+C:\FCM\fcmX2008\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\FCM\fcmX2008\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Components.UCCodeType.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIClientList.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIDocumentIssue.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIDocument.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.frmParserMainUI.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Properties.Resources.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UILogon.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIProposal.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\FCM\fcmX2008\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\FCM\fcmX2008\obj\Debug\fcm.exe
+C:\FCM\fcmX2008\obj\Debug\fcm.pdb
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\FCM\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\FCM\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\FCM\fcm\obj\Debug\GenerateResource.read.1.tlog
+C:\FCM\fcm\obj\Debug\GenerateResource.write.1.tlog
+C:\FCM\fcm\bin\Debug\FCMBusinessLibrary.dll
+C:\FCM\fcm\bin\Debug\FCMBusinessLibrary.pdb
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\FCM\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\bin\Debug\fcm.exe.config
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\bin\Debug\fcm.exe
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\bin\Debug\fcm.pdb
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\bin\Debug\FCMBusinessLibrary.dll
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\bin\Debug\FCMBusinessLibrary.pdb
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.exe
+C:\Users\MACHADO\Dropbox\I_Daniel\fcm\obj\Debug\fcm.pdb
+C:\I_DropBox\Dropbox\I_Daniel\fcm\bin\Debug\fcm.exe.config
+C:\I_DropBox\Dropbox\I_Daniel\fcm\bin\Debug\fcm.exe
+C:\I_DropBox\Dropbox\I_Daniel\fcm\bin\Debug\fcm.pdb
+C:\I_DropBox\Dropbox\I_Daniel\fcm\bin\Debug\FCMBusinessLibrary.dll
+C:\I_DropBox\Dropbox\I_Daniel\fcm\bin\Debug\FCMBusinessLibrary.pdb
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\GenerateResource.read.1.tlog
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\GenerateResource.write.1.tlog
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.exe
+C:\I_DropBox\Dropbox\I_Daniel\fcm\obj\Debug\fcm.pdb
+C:\Users\MACHADO\Dropbox\FCM\fcm\bin\Debug\fcm.pdb
+C:\Users\MACHADO\Dropbox\FCM\fcm\bin\Debug\FCMBusinessLibrary.dll
+C:\Users\MACHADO\Dropbox\FCM\fcm\bin\Debug\FCMBusinessLibrary.pdb
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.pdb
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\bin\Debug\fcm.exe.config
+C:\Dropbox_Files\Dropbox\FCM\fcm\bin\Debug\fcm.exe
+C:\Dropbox_Files\Dropbox\FCM\fcm\bin\Debug\fcm.pdb
+C:\Dropbox_Files\Dropbox\FCM\fcm\bin\Debug\FCMBusinessLibrary.dll
+C:\Dropbox_Files\Dropbox\FCM\fcm\bin\Debug\FCMBusinessLibrary.pdb
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\GenerateResource.read.1.tlog
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\GenerateResource.write.1.tlog
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.exe
+C:\Dropbox_Files\Dropbox\FCM\fcm\obj\Debug\fcm.pdb
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\bin\Debug\fcm.exe.config
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\bin\Debug\fcm.exe
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\bin\Debug\fcm.pdb
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\bin\Debug\FCMBusinessLibrary.dll
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\bin\Debug\FCMBusinessLibrary.pdb
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.exe
+C:\Users\MACHADO\Dropbox\Dropbox\FCM\fcm\obj\Debug\fcm.pdb
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIRelatedReferenceData.resources
+C:\Users\MACHADO\Dropbox\FCM\fcm\bin\Debug\fcm.exe.config
+C:\Users\MACHADO\Dropbox\FCM\fcm\bin\Debug\fcm.exe
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.exe
+C:\Users\MACHADO\Dropbox\FCM\fcm\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\MACHADO\Dropbox\FCM\fcm\bin\Debug\Google.GData.Client.dll
+C:\Users\MACHADO\Dropbox\FCM\fcm\bin\Debug\Google.GData.Documents.dll
+C:\Users\MACHADO\Dropbox\FCM\fcm\bin\Debug\Google.GData.Extensions.dll
+C:\Users\MACHADO\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.Timesheet.Timesheet.resources
+C:\I_Daniel\Dropbox\FCM\fcm\bin\Debug\fcm.exe.config
+C:\I_Daniel\Dropbox\FCM\fcm\bin\Debug\fcm.exe
+C:\I_Daniel\Dropbox\FCM\fcm\bin\Debug\fcm.pdb
+C:\I_Daniel\Dropbox\FCM\fcm\bin\Debug\FCMBusinessLibrary.dll
+C:\I_Daniel\Dropbox\FCM\fcm\bin\Debug\Google.GData.AccessControl.dll
+C:\I_Daniel\Dropbox\FCM\fcm\bin\Debug\Google.GData.Client.dll
+C:\I_Daniel\Dropbox\FCM\fcm\bin\Debug\Google.GData.Documents.dll
+C:\I_Daniel\Dropbox\FCM\fcm\bin\Debug\Google.GData.Extensions.dll
+C:\I_Daniel\Dropbox\FCM\fcm\bin\Debug\FCMBusinessLibrary.pdb
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIRelatedReferenceData.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.Timesheet.Timesheet.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\GenerateResource.read.1.tlog
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\GenerateResource.write.1.tlog
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.exe
+C:\I_Daniel\Dropbox\FCM\fcm\obj\Debug\fcm.pdb
+C:\Users\fcmdev\Dropbox\FCM\fcm\bin\Debug\fcm.exe.config
+C:\Users\fcmdev\Dropbox\FCM\fcm\bin\Debug\fcm.exe
+C:\Users\fcmdev\Dropbox\FCM\fcm\bin\Debug\fcm.pdb
+C:\Users\fcmdev\Dropbox\FCM\fcm\bin\Debug\FCMBusinessLibrary.dll
+C:\Users\fcmdev\Dropbox\FCM\fcm\bin\Debug\Google.GData.AccessControl.dll
+C:\Users\fcmdev\Dropbox\FCM\fcm\bin\Debug\Google.GData.Client.dll
+C:\Users\fcmdev\Dropbox\FCM\fcm\bin\Debug\Google.GData.Documents.dll
+C:\Users\fcmdev\Dropbox\FCM\fcm\bin\Debug\Google.GData.Extensions.dll
+C:\Users\fcmdev\Dropbox\FCM\fcm\bin\Debug\FCMBusinessLibrary.pdb
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIRelatedReferenceData.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.Timesheet.Timesheet.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.exe
+C:\Users\fcmdev\Dropbox\FCM\fcm\obj\Debug\fcm.pdb
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIRelatedReferenceData.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.Timesheet.Timesheet.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.exe
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.pdb
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.csprojResolveAssemblyReference.cache
+C:\I_Daniel\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\Users\Program Files\FCM\fcm.exe.config
+C:\Users\Program Files\FCM\fcm.exe
+C:\Users\Program Files\FCM\fcm.pdb
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.csprojResolveAssemblyReference.cache
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIRelatedReferenceData.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.Timesheet.Timesheet.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.exe
+C:\Users\MACHADO\Dropbox\FCM - MySQL\fcm\obj\Debug\fcm.pdb
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.csprojResolveAssemblyReference.cache
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIRelatedReferenceData.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.Timesheet.Timesheet.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.exe
+C:\I_Daniel\Dropbox\FCM - MySQL - Final\fcm\obj\Debug\fcm.pdb
+D:\Program Files\FCM\fcm.exe.config
+D:\Program Files\FCM\fcm.exe
+D:\Program Files\FCM\fcm.pdb
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.csprojResolveAssemblyReference.cache
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIRelatedReferenceData.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.Others.UISendEmail.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.Timesheet.Timesheet.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Properties.Resources.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UILogon.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.exe
+D:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.pdb
+C:\Program Files\FCM\fcm.exe.config
+C:\Program Files\FCM\fcm.exe
+C:\Program Files\FCM\fcm.pdb
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.csprojResolveAssemblyReference.cache
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIRelatedReferenceData.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.Others.UISendEmail.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.Timesheet.Timesheet.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Properties.Resources.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UILogon.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.exe
+C:\I_Daniel\Dropbox\FCMMySQLGit\fcm\obj\Debug\fcm.pdb
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.csprojResolveAssemblyReference.cache
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.csproj.ResolveComReference.cache
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCClientOtherInfo.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientRegistration.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIRelatedReferenceData.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.Others.UISendEmail.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIProcessRequest.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIUserAccess.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.Timesheet.Timesheet.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIUserSettings.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientContract.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientEmployee.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIGoogleDocs.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCCodeValue.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCCodeType.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCDocumentList.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Components.UCReportMetadata.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDocumentEdit.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDocumentLink.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDocumentSet.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientList.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientMetadata.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentEdit.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentVersion.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentLink.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocument.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.UIDocumentSetDocumentLink.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentSetEdit.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIfcm.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Properties.Resources.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIClientDetails.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIImpactedDocuments.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UILogon.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIMaintainProject.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIOutputMessage.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIProjectPlan.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIProposal.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIReportMetadata.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIReferenceData.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.Windows.UIDocumentList.resources
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.csproj.GenerateResource.Cache
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.exe
+D:\I_Daniel\Dropbox\I_Projects\FCM_Projects\FCMMySQLGit\fcm\obj\Debug\fcm.pdb

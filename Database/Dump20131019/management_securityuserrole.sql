@@ -1,0 +1,62 @@
+CREATE DATABASE  IF NOT EXISTS `management` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `management`;
+-- MySQL dump 10.13  Distrib 5.6.13, for Win32 (x86)
+--
+-- Host: localhost    Database: management
+-- ------------------------------------------------------
+-- Server version	5.5.32-MariaDB
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `securityuserrole`
+--
+
+DROP TABLE IF EXISTS `securityuserrole`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `securityuserrole` (
+  `UniqueID` int(11) NOT NULL,
+  `FK_UserID` varchar(50) NOT NULL,
+  `FK_Role` varchar(50) NOT NULL,
+  `StartDate` date NOT NULL,
+  `EndDate` date DEFAULT NULL,
+  `IsActive` char(1) DEFAULT NULL,
+  `IsVoid` char(1) DEFAULT NULL,
+  PRIMARY KEY (`UniqueID`),
+  KEY `FK_FCMUserRole_FCMRole` (`FK_Role`),
+  KEY `FK_FCMUserRole_FCMUser` (`FK_UserID`),
+  CONSTRAINT `FK_FCMUserRole_FCMRole` FOREIGN KEY (`FK_Role`) REFERENCES `securityrole` (`Role`),
+  CONSTRAINT `FK_FCMUserRole_FCMUser` FOREIGN KEY (`FK_UserID`) REFERENCES `securityuser` (`UserID`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `securityuserrole`
+--
+
+LOCK TABLES `securityuserrole` WRITE;
+/*!40000 ALTER TABLE `securityuserrole` DISABLE KEYS */;
+INSERT INTO `securityuserrole` VALUES (1,'DM0001','ADMIN','2012-02-19','2012-12-31','Y','N'),(2,'DAN','POWERUSER','2012-02-19','9999-12-31','Y','N'),(3,'DAN','USER','2012-02-19','9999-12-31','Y','N'),(4,'GC0001','ADMIN','2013-02-11','9999-12-31','Y','N'),(5,'dm0100','CLIENT','2013-04-15','9999-12-31','Y','N'),(6,'dm0200','CLIENT','2013-04-15','9999-12-31','Y','N'),(7,'GC0001','CLIENT','2013-04-16','9999-12-31','N','N'),(8,'dm0001','CLIENT','2013-04-17','9999-12-31','N','N'),(9,'DM0300','CLIENT','2013-04-17','9999-12-31','Y','N'),(10,'dm0400','CLIENT','2013-04-17','9999-12-31','Y','N'),(11,'CLIENT01','CLIENT','2013-05-22','9999-12-31','Y','N'),(12,'DM0001','CLIENT','2013-05-22','9999-12-31','N','N'),(13,'GC0001','CLIENT','2013-05-26','9999-12-31','N','N'),(14,'dm0001','CLIENT','2013-07-25','9999-12-31','Y','N'),(15,'dm0001','CLIENT','2013-07-31','9999-12-31','Y','N'),(16,'dm0001','CLIENT','2013-07-31','9999-12-31','Y','N'),(17,'dm0001','CLIENT','2013-07-31','9999-12-31','Y','N'),(18,'GC0001','CLIENT','2013-08-08','9999-12-31','Y','N'),(19,'dm0001','CLIENT','2013-08-24','9999-12-31','Y','N'),(20,'GC0001','CLIENT','2013-09-01','9999-12-31','Y','N'),(21,'GC0001','CLIENT','2013-09-17','9999-12-31','Y','N');
+/*!40000 ALTER TABLE `securityuserrole` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2013-10-19 18:09:47

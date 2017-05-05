@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8f286618-81ce-4954-9d73-ce551556c4f1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8731/Design_Time_Addresses/WcfFcm/Service1/?wsdl" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="f07b5cdc-ea04-4213-9993-3613e3dd8b5d" SourceId="1" SourceUrl="http://localhost:8731/Design_Time_Addresses/WcfFcm/Service1/?xsd=xsd0" />
+    <MetadataFile FileName="fcmService.wsdl" MetadataType="Wsdl" ID="97532277-11d7-4f03-8cd0-9849e4907894" SourceId="1" SourceUrl="http://localhost:8731/Design_Time_Addresses/WcfFcm/Service1/?wsdl" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="d6ba2ce8-7d40-4b6f-9aad-cab3eb3ed3bf" SourceId="1" SourceUrl="http://localhost:8731/Design_Time_Addresses/WcfFcm/Service1/?xsd=xsd1" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="30d8d969-7084-401d-b9f5-f0dafcd4e29f" SourceId="1" SourceUrl="http://localhost:8731/Design_Time_Addresses/WcfFcm/Service1/?xsd=xsd2" />
+    <MetadataFile FileName="item3.xsd" MetadataType="Schema" ID="e4d5ba64-686d-4fca-b5ec-10010c182e5c" SourceId="1" SourceUrl="http://localhost:8731/Design_Time_Addresses/WcfFcm/Service1/?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

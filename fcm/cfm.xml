@@ -1,0 +1,8 @@
+<project>
+   <name>
+      'Teste'
+   </name>
+   <connection>
+       'Data Source=FNOA0189\\SQL2005;Initial Catalog=EA_LOCAL;integrated security=True'
+   </connection>
+</project>

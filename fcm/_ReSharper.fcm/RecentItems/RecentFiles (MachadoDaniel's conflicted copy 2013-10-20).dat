@@ -1,0 +1,59 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClientDocument/d:Interface/f:IBUSClientDocument.cs" caret="425" fromTop="12" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClient/d:Interface/f:IBUSClientContract.cs" caret="0" fromTop="0" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClient/d:ServiceContract/f:SCClient.cs" caret="235" fromTop="7" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Windows/d:Client/f:UIClientDetails.cs" caret="4029" fromTop="127" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Windows/d:Others/f:UIImpactedDocuments.cs" caret="0" fromTop="0" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Windows/d:Client/f:UIClientList.cs" caret="0" fromTop="0" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Repository/d:RepositoryClient/f:RepClient.cs" caret="35656" fromTop="23" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:ProxyAsync/f:AsyncClient.cs" caret="0" fromTop="0" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClient/d:Interface/f:IBUSClientList.cs" caret="0" fromTop="0" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClient/d:Interface/f:IBUSClientDetails.cs" caret="0" fromTop="0" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:FCMWord/f:FCMWordReport.cs" caret="18639" fromTop="27" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:UserSettings/f:UserSetting.cs" caret="9541" fromTop="21" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Repository/d:RepositoryDocument/f:RepDocument.cs" caret="16372" fromTop="28" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCDocument/d:Service/f:BUSDocument.cs" caret="4626" fromTop="41" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Model/d:ModelBackendStatus/f:BackendStatus.cs" caret="431" fromTop="15" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Repository/d:RepositoryClient/f:RepClientExtraInformation.cs" caret="0" fromTop="0" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:FCMUtils/f:FCMUtils.cs" caret="0" fromTop="0" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Windows/d:Document/f:UIDocumentList.cs" caret="12775" fromTop="27" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClient/d:Service/f:BUSProcessRequest.cs" caret="0" fromTop="0" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Windows/d:Client/f:UIClientDocumentSet.cs" caret="85973" fromTop="26" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Model/d:ModelClientDocument/f:DocumentGeneration.cs" caret="50017" fromTop="16" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Windows/d:Client/f:UIClientRegistration.cs" caret="2805" fromTop="21" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClient/d:Service/f:BUSClient.cs" caret="23317" fromTop="28" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Components/f:UCReportMetadata.cs" caret="0" fromTop="0" />
+    <File id="E3AE470F-2380-47C1-85E2-4CDBF59CA331/d:APIDocument/f:WordDocumentTasks.cs" caret="0" fromTop="0" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Windows/d:Document/f:UIDocumentEdit.cs" caret="19540" fromTop="12" />
+    <File id="E3AE470F-2380-47C1-85E2-4CDBF59CA331/d:Security/f:SecurityUserRole.cs" caret="1779" fromTop="19" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Windows/d:Security/f:UIUserAccess.cs" caret="13387" fromTop="23" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClientDocument/d:Service/f:BUSClientDocument.cs" caret="2166" fromTop="20" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Repository/d:RepositoryClientDocument/f:RepClientDocument.cs" caret="67217" fromTop="41" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClient/d:Service/f:BUSClient.cs" caret="29216" fromTop="11" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Windows/d:Client/f:UIClientDocumentSet.cs" caret="22539" fromTop="34" />
+    <File id="E3AE470F-2380-47C1-85E2-4CDBF59CA331/d:APIDocument/f:WordDocumentTasks.cs" caret="29978" fromTop="32" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Model/d:ModelBackendStatus/f:BackendStatus.cs" caret="348" fromTop="12" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Repository/f:FCMDBFieldName.cs" caret="7816" fromTop="28" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Repository/d:RepositoryClient/f:RepClient.cs" caret="37866" fromTop="21" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCFCMBackendStatus/d:Service/f:BUSFCMBackendStatus.cs" caret="1236" fromTop="30" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Repository/d:RepositoryBackendStatus/f:RepBackendStatus.cs" caret="832" fromTop="12" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Model/d:ModelClientDocument/f:ClientDocument.cs" caret="894" fromTop="14" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClient/d:Interface/f:IBUSClientContract.cs" caret="670" fromTop="20" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClient/d:Service/f:BUSClientContract.cs" caret="336" fromTop="8" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClient/d:ServiceContract/f:SCClient.cs" caret="235" fromTop="7" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClientDocument/d:ServiceContract/f:SCClientDocument.cs" caret="564" fromTop="19" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClientDocument/d:Interface/f:IBUSClientDocument.cs" caret="425" fromTop="12" />
+    <File id="E3AE470F-2380-47C1-85E2-4CDBF59CA331/d:Helper/f:Utils.cs" caret="38322" fromTop="8" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Repository/d:RepositoryDocument/f:RepDocument.cs" caret="33557" fromTop="38" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Model/d:ModelClientDocument/f:DocumentGeneration.cs" caret="50761" fromTop="33" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:UserSettings/f:UserSetting.cs" caret="9450" fromTop="19" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCClientDocument/d:Service/f:BUSClientDocument.cs" caret="7651" fromTop="19" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Service/d:SVCDocument/d:Service/f:BUSDocument.cs" caret="4707" fromTop="42" />
+    <File id="E3AE470F-2380-47C1-85E2-4CDBF59CA331/d:Security/f:SecurityUserRole.cs" caret="2316" fromTop="33" />
+    <File id="78EACFC0-1199-400D-9396-99DBAA64227A/d:Windows/d:Document/f:UIDocumentEdit.cs" caret="2923" fromTop="35" />
+    <File id="AFCFA7D2-53D4-406E-B2F7-CD01811CA488/d:Repository/d:RepositoryClientDocument/f:RepClientDocument.cs" caret="61148" fromTop="21" />
+  </RecentEdits>
+</RecentFiles>

@@ -1,0 +1,17 @@
+<Config>
+  <ConnectionStringLocal>
+    Data Source=DESKTOPHP\SQLEXPRESS,51645;Initial Catalog=management;Integrated Security=SSPI;User ID=service_fcm;Password=service_fcm;MultipleActiveResultSets=True;
+  </ConnectionStringLocal>
+  <ConnectionStringServer>
+    Data Source=DESKTOPHP\SQLEXPRESS,51645;Initial Catalog=management;Integrated Security=SSPI;User ID=service_fcm;Password=service_fcm;MultipleActiveResultSets=True;
+  </ConnectionStringServer>
+  <InternalServerIPAddress>
+    192.168.2.9
+  </InternalServerIPAddress>
+  <LocalAssemblyFolder>
+    C:\Program Files\FCM\
+  </LocalAssemblyFolder>
+  <ServerAssemblyFolder>
+    T:\AssemblyServer\
+  </ServerAssemblyFolder>
+</Config>

@@ -1,0 +1,8 @@
+<Config>
+   <ConnectionString>
+       Data Source=FNOA0189\\SQL2005;Initial Catalog=EA_LOCAL;integrated security=True
+   </ConnectionString>
+   <InternalServerIPAddress>
+       192.168.2.5
+   </InternalServerIPAddress>
+</Config>

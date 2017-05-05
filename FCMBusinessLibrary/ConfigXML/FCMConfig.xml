@@ -1,0 +1,39 @@
+<Config>
+  <ConnectionStringLocalZ>
+    Data Source=MACHADODANIEL\SQLSERVER,1433;Initial Catalog=management;Integrated Security=SSPI;User ID=service_fcm;Password=service_fcm;MultipleActiveResultSets=True;
+  </ConnectionStringLocalZ>
+  <ConnectionStringLocal>
+    Server=127.0.0.1;Port=3306;Database=management;Uid=
+    ;Pwd=oculos;AutoEnlist=false   
+  </ConnectionStringLocal>
+  <ConnectionStringServer>
+    Server=127.0.0.1;Port=3306;Database=management;Uid=fcmuser;Pwd=oculos;AutoEnlist=false   
+  </ConnectionStringServer>
+  <ConnectionString>
+    Server=127.0.0.1;Port=3306;Database=management;Uid=fcmuser;Pwd=oculos;AutoEnlist=false   
+  </ConnectionString>
+  <ConnectionStringMySql>
+    Server=127.0.0.1;Port=3306;Database=management;Uid=fcmuser;Pwd=oculos;AutoEnlist=false   
+  </ConnectionStringMySql>
+  <ConnectionStringFramework>
+    Server=127.0.0.1;Port=3306;Database=management;Uid=fcmuser;Pwd=oculos;AutoEnlist=false   
+  </ConnectionStringFramework>
+  <InternalServerIPAddress>
+    10.0.0.2
+  </InternalServerIPAddress>
+  <LocalAssemblyFolder>
+    C:\Program Files\FCM\
+  </LocalAssemblyFolder>
+  <ServerAssemblyFolder>
+    T:\AssemblyServer\
+  </ServerAssemblyFolder>
+  <DefaultDB>
+    Local
+  </DefaultDB>
+  <EnableLocalDB>
+    Y
+  </EnableLocalDB>
+  <AuditLogPath>
+    \\MACHADODANIEL\FCM_Projects\Shared_T_Drive\AuditLog
+  </AuditLogPath>
+</Config>
